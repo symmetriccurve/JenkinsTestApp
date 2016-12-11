@@ -1,4 +1,4 @@
-/* Testing Jenkins build trigger on push*/
+/* Testing Jenkins build trigger wiht polling*/
 
 import React, { Component } from 'react';
 import {
