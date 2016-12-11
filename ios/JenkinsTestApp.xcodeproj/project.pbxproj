@@ -767,7 +767,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = QW6J3HA7KF;
 				INFOPLIST_FILE = JenkinsTestApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -777,6 +777,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = JenkinsTestApp;
+				PROVISIONING_PROFILE = "498ec9a2-b7bc-4046-a92d-2d0c233d1898";
+				PROVISIONING_PROFILE_SPECIFIER = "vik belde";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
