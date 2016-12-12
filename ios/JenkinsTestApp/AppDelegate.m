@@ -10,7 +10,7 @@
 #import "AppDelegate.h"
 
 #import "RCTBundleURLProvider.h"
-#import "RCTRootView.h
+#import "RCTRootView.h"
 
 @implementation AppDelegate
 
